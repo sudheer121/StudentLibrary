@@ -9,3 +9,5 @@ To make it work on your Desktop,<br />
 ->The contents table has 3 columns namely id,author and book<br />
 ->The students table has 6 columns namely roll_no, password, fname, lname, book_1, book_2.<br />
 3)Run the program from IDE.<br />
+<br />
+<h3>Features</h3>
